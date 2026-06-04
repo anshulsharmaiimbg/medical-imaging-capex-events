@@ -55,8 +55,8 @@ This plan prioritizes high-probability sites, maps competitor penetration, and a
 | Kathmandu Medical College Teaching Hospital | Teaching/Private | Kathmandu | CT, MR, DR, US | Expansion + replacement potential |
 | Nepal Mediciti Hospital | Corporate Hospital | Lalitpur | CT, MR, DR, US | Premium private demand |
 | Grande International Hospital | Corporate Hospital | Kathmandu | CT, MR, DR | High-acuity private segment |
-| Norvic International Hospital | Corporate Hospital | Kathmandu | CT, MR, DR, MI | Brand-sensitive flagship account |
-| B.P. Koirala Memorial Cancer Hospital | Oncology Tertiary | Bharatpur | MI, CT, DR | MI-led opportunity |
+| Norvic International Hospital | Corporate Hospital | Kathmandu | CT, MR, DR, Molecular Imaging (MI) | Brand-sensitive flagship account |
+| B.P. Koirala Memorial Cancer Hospital | Oncology Tertiary | Bharatpur | Molecular Imaging (MI), CT, DR | MI-led opportunity |
 | Chitwan Medical College | Teaching | Bharatpur | CT, MR, DR, US | Non-KTM anchor site |
 | Nobel Medical College | Teaching | Biratnagar | CT, MR, DR | Eastern Nepal anchor |
 | Manipal Teaching Hospital | Teaching | Pokhara | CT, MR, DR | Western Nepal anchor |
@@ -196,8 +196,8 @@ This plan prioritizes high-probability sites, maps competitor penetration, and a
 | T1 | Kathmandu Medical College | Kathmandu | CT/MR/DR/US | Mixed incumbents | Bundle conversion |
 | T1 | Nepal Mediciti | Lalitpur | CT/MR/DR/US | Premium mix | High-value private positioning |
 | T1 | Grande International | Kathmandu | CT/MR/DR | Premium mix | Replacement + service SLA |
-| T1 | Norvic International | Kathmandu | CT/MR/MI/DR | Premium mix | Flagship reference account |
-| T1 | BPKMCH | Bharatpur | MI/CT/DR | Oncology incumbents | MI-led entry |
+| T1 | Norvic International | Kathmandu | CT/MR/Molecular Imaging (MI)/DR | Premium mix | Flagship reference account |
+| T1 | B.P. Koirala Memorial Cancer Hospital | Bharatpur | Molecular Imaging (MI)/CT/DR | Oncology incumbents | MI-led entry |
 | T1 | Chitwan Medical College | Bharatpur | CT/MR/DR | Mixed | Provincial lighthouse |
 | T1 | Manipal Teaching Hospital | Pokhara | CT/MR/DR | Mixed | Western hub anchor |
 | T1 | Nobel Medical College | Biratnagar | CT/MR/DR | Mixed | Eastern hub anchor |
@@ -214,7 +214,7 @@ This plan prioritizes high-probability sites, maps competitor penetration, and a
 
 | Timeline | Key Outcomes |
 |---|---|
-| Month 0–2 | Target account validation, site-readiness audits, stakeholder map, 20-account pipeline lock |
+| Month 0–2 | Target account validation, site-readiness audits, stakeholder map, confirmed pipeline of 20 accounts |
 | Month 3–4 | 6–8 technical-commercial proposals (DR/CT heavy), first lighthouse shortlist |
 | Month 5–6 | First lighthouse closure(s), reference program launch, service KPI dashboard live |
 | Month 7–9 | MRI expansion in selected Tier-1 accounts, provincial scale-out in Wave-2 cities |
