@@ -5,6 +5,8 @@ Nepal’s imaging market is concentrated in Kathmandu Valley and a small number 
 
 This plan prioritizes high-probability sites, maps competitor penetration, and aligns United Imaging product families to Nepal’s budget, throughput, power, service, and installation constraints.
 
+**Note on “Directional” labels**: sections marked “Directional” are strategic estimates used for account prioritization and should be validated during account-level qualification.
+
 ---
 
 ## 1) Market Overview & Insights
@@ -48,7 +50,8 @@ This plan prioritizes high-probability sites, maps competitor penetration, and a
 | Account | Type | Region | Likely Modalities | Priority Rationale |
 |---|---|---|---|---|
 | Tribhuvan University Teaching Hospital (TUTH) | Teaching/Tertiary | Kathmandu | CT, MR, DR | High volume, academic influence |
-| Bir Hospital / National Academy networks | Tertiary Public | Kathmandu | CT, DR, MR | Referral concentration |
+| Bir Hospital | Tertiary Public | Kathmandu | CT, DR, MR | National referral load |
+| National Academy of Medical Sciences (NAMS) | Academic/Public | Kathmandu | CT, DR, MR | Academic-public influence |
 | Kathmandu Medical College Teaching Hospital | Teaching/Private | Kathmandu | CT, MR, DR, US | Expansion + replacement potential |
 | Nepal Mediciti Hospital | Corporate Hospital | Lalitpur | CT, MR, DR, US | Premium private demand |
 | Grande International Hospital | Corporate Hospital | Kathmandu | CT, MR, DR | High-acuity private segment |
@@ -61,8 +64,8 @@ This plan prioritizes high-probability sites, maps competitor penetration, and a
 ### Tier 2 (Medium Customers)
 | Account Type | Sample Targets | Modalities |
 |---|---|---|
-| Mid-sized multispecialty hospitals | B&B Hospital, Patan-area private hospitals, regional corporate hospitals | CT, DR, US, selected MR |
-| Specialist diagnostic centers | Kathmandu diagnostics clusters, provincial imaging centers | CT, DR, US |
+| Mid-sized multispecialty hospitals | B&B Hospital, Patan Hospital, Nepal Police Hospital, Bhaktapur Cancer Hospital | CT, DR, US, selected MR |
+| Specialist diagnostic centers | Kathmandu Imaging Center, Alka Diagnostic, Grande City Clinic diagnostics units | CT, DR, US |
 | Growing medical colleges | Emerging colleges in Province 1/Bagmati/Gandaki | DR first, then CT/MR |
 
 ### Tier 3 (Low Priority / Long Tail)
@@ -74,7 +77,7 @@ This plan prioritizes high-probability sites, maps competitor penetration, and a
 
 ---
 
-## 3) Competitive Landscape
+## 3) Competitive Landscape (Directional)
 
 ### Competitor Presence Matrix (Directional)
 | Modality | Typical Incumbents | Current Strength | Whitespace for United Imaging |
@@ -198,8 +201,11 @@ This plan prioritizes high-probability sites, maps competitor penetration, and a
 | T1 | Chitwan Medical College | Bharatpur | CT/MR/DR | Mixed | Provincial lighthouse |
 | T1 | Manipal Teaching Hospital | Pokhara | CT/MR/DR | Mixed | Western hub anchor |
 | T1 | Nobel Medical College | Biratnagar | CT/MR/DR | Mixed | Eastern hub anchor |
-| T2 | Regional diagnostic chains | Multi-city | CT/DR/US | Fragmented | Fast-cycle CT/DR campaign |
-| T2 | Mid-sized private hospitals | Multi-city | DR/CT/MR | Fragmented | Financing-led conversion |
+| T2 | B&B Hospital | Lalitpur | DR/CT/MR | Mixed | Financing-led conversion |
+| T2 | Patan Hospital | Lalitpur | DR/CT/US | Mixed | Public-private value positioning |
+| T2 | Nepal Police Hospital | Kathmandu | DR/CT/US | Mixed | Institutional replacement plan |
+| T2 | Birat Medical College | Biratnagar | DR/CT/MR | Mixed | Eastern secondary anchor |
+| T2 | Gandaki Medical College | Pokhara | DR/CT/MR | Mixed | Western secondary anchor |
 | T3 | Small clinics | Nationwide | US/DR | Mixed low-end | Channel-led long tail |
 
 ---
@@ -222,4 +228,3 @@ This plan prioritizes high-probability sites, maps competitor penetration, and a
 3. Launch joint Meta + UIH lighthouse pursuit plan for 5 Tier-1 accounts.
 4. Finalize SLA-backed service pitch and financing templates by segment.
 5. Create quarterly review cadence with conversion, pipeline velocity, and uptime KPIs.
-
