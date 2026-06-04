@@ -64,11 +64,22 @@ Primary success factors are: strong uptime/service reputation, financing support
 
 | Tier | Facility Type | Target Sites (Illustrative Priority Accounts) | Likely Need Profile | Suggested Focus |
 |---|---|---|---|---|
-| Tier 1 | Tertiary/teaching hospitals | Tribhuvan University Teaching Hospital (Kathmandu), Bir Hospital (Kathmandu), Grande International Hospital, Norvic International Hospital, B & B Hospital, Dhulikhel Hospital, Kathmandu Medical College Teaching Hospital, BP Koirala Institute of Health Sciences (Dharan), Manipal Teaching Hospital (Pokhara) | MRI/CT upgrades, DR modernization, advanced US, selected MI pathways | Flagship wins, reference installations, enterprise service contracts |
+| Tier 1 | Tertiary/teaching hospitals | Top tertiary and teaching hospitals in Kathmandu, Dharan, and Pokhara (see Tier 1 reference list below) | MRI/CT upgrades, DR modernization, advanced US, selected MI pathways | Flagship wins, reference installations, enterprise service contracts |
 | Tier 1 | Large diagnostics | Nepal Mediciti-linked diagnostics and high-volume imaging centers in Kathmandu Valley | High throughput CT/MR/US, workflow and reporting speed | Throughput + TCO + uptime positioning |
 | Tier 2 | Regional private hospitals | Chitwan/Bharatpur private hospitals, Biratnagar tertiary private facilities, Butwal and Nepalgunj multispecialty centers | 16–64 slice CT, 1.5T MRI (select), DR room + portable DR | Bundle pricing, financing, rapid install |
 | Tier 2 | Specialty centers | Cardiac/neuro/oncology focused diagnostics in major cities | Cardiac CT protocols, premium US, digital workflow | Clinical application support + differentiation |
 | Tier 3 | Small hospitals/clinics | District-level hospitals and emerging clinics outside core metros | DR, basic-to-mid ultrasound, referral-linked imaging | Entry products, channel-led coverage, service confidence |
+
+**Tier 1 tertiary/teaching reference list (priority mapping):**
+- Tribhuvan University Teaching Hospital (Kathmandu)
+- Bir Hospital (Kathmandu)
+- Grande International Hospital
+- Norvic International Hospital
+- B & B Hospital
+- Dhulikhel Hospital
+- Kathmandu Medical College Teaching Hospital
+- BP Koirala Institute of Health Sciences (Dharan)
+- Manipal Teaching Hospital (Pokhara)
 
 ---
 
@@ -225,7 +236,7 @@ Use the following fields in CRM/tracking sheet:
 - Account name, location, tier, ownership type
 - Existing modality inventory (brand/model/year)
 - Daily scan volume estimate by modality
-- Decision makers (clinical, procurement, finance, owner)
+- Decision makers (clinical, procurement, finance, hospital administrator/executive sponsor)
 - Budget cycle / tender window
 - Site readiness status (civil/electrical/HVAC/shielding/IT)
 - Proposed United modality/model
