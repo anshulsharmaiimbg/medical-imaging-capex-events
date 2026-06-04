@@ -1,0 +1,24 @@
+{
+  "name": "medical-imaging-capex-events",
+  "version": "1.0.0",
+  "description": "Comprehensive platform for tracking medical imaging device events and Capex opportunities",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.5.15",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.15",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3"
+  }
+}
